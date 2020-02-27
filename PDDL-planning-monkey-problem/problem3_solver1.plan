@@ -1,0 +1,14 @@
+;;!domain: monoBanana
+;;!problem: problema3
+
+0.00100: (mover-mono mono1 cuarto2 cuarto1)
+0.00200: (cargar-caja mono1 caja1 cuarto1 cuarto2)
+0.00300: (cargar-caja mono1 caja1 cuarto2 cuarto3)
+0.00400: (subir-caja mono1 caja1 cuarto3)
+0.00500: (cojer-banana mono1 banana1 cuarto3)
+0.00600: (bajar-caja mono1 caja1 cuarto3)
+0.00700: (mover-mono mono1 cuarto3 cuarto2)
+0.00800: (mover-mono mono1 cuarto2 cuarto4)
+
+; Makespan: 0.008
+; Cost: 0.008

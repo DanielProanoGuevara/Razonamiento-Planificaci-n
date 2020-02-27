@@ -1,0 +1,8 @@
+0: (       mover-mono mono1 cuarto2 cuarto1) [1]
+1: (cargar-caja mono1 caja1 cuarto1 cuarto2) [1]
+2: (cargar-caja mono1 caja1 cuarto2 cuarto3) [1]
+3: (         subir-caja mono1 caja1 cuarto3) [1]
+4: (     cojer-banana mono1 banana1 cuarto3) [1]
+5: (         bajar-caja mono1 caja1 cuarto3) [1]
+6: (       mover-mono mono1 cuarto3 cuarto2) [1]
+7: (       mover-mono mono1 cuarto2 cuarto4) [1]
